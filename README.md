@@ -1,14 +1,14 @@
 # CarGenAI
 Video of the project: https://youtu.be/aslTSS2VpCA  
 
-This project was for learning about genetic algorithms and testing my neural network library, it may contains some errors and not being compatible with your OS/Version.  
+This project was for learning about genetic algorithms and testing my neural network library (https://github.com/VynOffline/libvnn), it may contains some errors and not being compatible with your OS/Version.  
 I won't provide support, however you can still use and/or adapt the code yourself.
 
 ## Requirements
 
 - Linux (You can still use Windows but i won't provide instructions for it you will probably have some changes to do)
-- Basic knowledge about linux
 - Unreal Engine 4 version 4.22
+- Basic knowledge about linux
 
 ## Preparation
 
